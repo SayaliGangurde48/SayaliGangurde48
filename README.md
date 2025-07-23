@@ -8,7 +8,7 @@
 ---
 
 ### 💫 About Me:
-- 🎓 CSE 2nd Year Student | Sanjivani College of Engineering  
+- 🎓 CSE 2nd Year Student | Sanjivani Univesity
 - 🎯 Aspiring Full Stack Developer | GATE CSE 2027 Aspirant  
 - 💻 Currently working on: Hackathon project **GeneGuard** & **Internship @ Twinsistech**  
 - 🗣️ Learning: Japanese & AI/ML  
@@ -51,4 +51,4 @@
 
 ### ⚡ Fun Fact:
 - 🧠 I believe in “Consistency is the key to success”  
-- 🏆 Dream: Achieve ₹1 Cr+ package by age 30 through tech + innovation 💥  
+  
