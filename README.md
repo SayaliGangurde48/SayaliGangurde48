@@ -19,7 +19,7 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="www.linkedin.com/in/sayali-gangurde-0a0a0b31b" target="_blank">
+  <a href="https://www.linkedin.com/in/sayali-gangurde-0a0a0b31b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gangurdesaili48@gmail.com" target="_blank">
