@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sayali Gangurde</h1>
 
-<!--
-**SayaliGangurde48/SayaliGangurde48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs7KViFEx63Wl8gk/giphy.gif" width="200" alt="Developer gif">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me:
+- 🎓 CSE 2nd Year Student | Sanjivani College of Engineering  
+- 🎯 Aspiring Full Stack Developer | GATE CSE 2027 Aspirant  
+- 💻 Currently working on: Hackathon project **GeneGuard** & **Internship @ Twinsistech**  
+- 🗣️ Learning: Japanese & AI/ML  
+- 📚 Focus: LeetCode, DSA, Full-Stack, Resume Projects  
+- 🌐 Making websites: Saili Surgical, Gangurde Healthcare, Portfolio  
+
+---
+
+### 🔗 Connect with me:
+<p>
+  <a href="www.linkedin.com/in/sayali-gangurde-0a0a0b31b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gangurdesaili48@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,mysql,nodejs,tailwind,github,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayaliGangurde48&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliGangurde48&layout=compact&theme=radical" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding gif"/>
+</p>
+
+---
+
+### ⚡ Fun Fact:
+- 🧠 I believe in “Consistency is the key to success”  
+- 🏆 Dream: Achieve ₹1 Cr+ package by age 30 through tech + innovation 💥  
