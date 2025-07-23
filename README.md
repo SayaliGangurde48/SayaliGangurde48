@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Sayali Gangurde</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFEx63Wl8gk/giphy.gif" width="200" alt="Developer gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqcW4xbWl3Zm8zdG5lZXRxZXhxb29zcTA1M2ZrODgxMjRoYXptMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="250" alt="AI Animation">
+
 </p>
 
 ---
