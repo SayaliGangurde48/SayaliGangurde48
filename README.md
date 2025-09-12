@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Sayali Gangurde</h1>
+
+ <h1 align="center">Hi there 👋 I'm Sayali Gangurde</h1>
 
 ---
 
@@ -11,7 +12,7 @@
 
     <!-- Right Side (About Me) -->
     <td width="60%" valign="top">
-      
+
 ### 💫 About Me:
 - 🎓 CSE 2nd Year Student | Sanjivani University  
 - 🎯 Aspiring Full Stack Developer | GATE CSE 2027 Aspirant  
