@@ -1,29 +1,21 @@
+<h1 align="center">Hi there 👋 I'm Sayali Gangurde</h1>
 
- <h1 align="center">Hi there 👋 I'm Sayali Gangurde</h1>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqcW4xbWl3Zm8zdG5lZXRxZXhxb29zcTA1M2ZrODgxMjRoYXptMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="250" alt="AI Animation">
+
+</p>
 
 ---
 
-<table>
-  <tr>
-    <!-- Left Side (GIF) -->
-    <td width="40%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqcW4xbWl3Zm8zdG5lZXRxZXhxb29zcTA1M2ZrODgxMjRoYXptMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="250" alt="AI Animation">
-    </td>
-
-    <!-- Right Side (About Me) -->
-    <td width="60%" valign="top">
-
 ### 💫 About Me:
-- 🎓 CSE 2nd Year Student | Sanjivani University  
+- 🎓 CSE 2nd Year Student | Sanjivani Univesity
 - 🎯 Aspiring Full Stack Developer | GATE CSE 2027 Aspirant  
 - 💻 Currently working on: Hackathon project **GeneGuard** & **Internship @ Twinsistech**  
 - 🗣️ Learning: Japanese & AI/ML  
 - 📚 Focus: LeetCode, DSA, Full-Stack, Resume Projects  
+  
 
-    </td>
-  </tr>
-</table>
-
+---
 
 ### 🔗 Connect with me:
 <p>
@@ -59,4 +51,4 @@
 
 ### ⚡ Fun Fact:
 - 🧠 I believe in “Consistency is the key to success”  
-  
+ 
