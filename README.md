@@ -13,7 +13,7 @@
 - 💻 Currently working on: Hackathon project **GeneGuard** & **Internship @ Twinsistech**  
 - 🗣️ Learning: Japanese & AI/ML  
 - 📚 Focus: LeetCode, DSA, Full-Stack, Resume Projects  
-- 🌐 Making websites: Saili Surgical, Gangurde Healthcare, Portfolio  
+  
 
 ---
 
