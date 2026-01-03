@@ -37,17 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayaliGangurde48&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliGangurde48&layout=compact&theme=radical" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding gif"/>
-</p>
-
----
 
 ### ⚡ Fun Fact:
 - 🧠 I believe in “Consistency is the key to success”  
