@@ -1,12 +1,21 @@
-<div style="display: flex; align-items: center;">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IweXpmYnFjcmZvaTNneG5qcmF4Y3k3cWV6Z2k4ZTBhYThscGxvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq2zPVz6FLD6Z5S/giphy.gif" 
-    width="60" 
-    height="60"
-    style="margin-right: 12px;"
-  />
-  <h1>Hi there 👋 I'm Sayali Gangurde</h1>
+<div align="centre">
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IweXpmYnFjcmZvaTNneG5qcmF4Y3k3cWV6Z2k4ZTBhYThscGxvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq2zPVz6FLD6Z5S/giphy.gif"
+          width="80"
+          height="50"
+          style="border-radius: 6px;"
+        />
+      </td>
+      <td>
+        <h1>Hi there 👋 I'm Sayali Gangurde</h1>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 </p>
 
