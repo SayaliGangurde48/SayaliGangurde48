@@ -10,9 +10,8 @@
 ### 💫 About Me:
 - 🎓 CSE 2nd Year Student | Sanjivani Univesity
 - 🎯 Aspiring Full Stack Developer | GATE CSE 2027 Aspirant  
-- 💻 Currently working on: Hackathon project **GeneGuard** & **Internship @ Twinsistech**  
-- 🗣️ Learning: Japanese & AI/ML  
-- 📚 Focus: LeetCode, DSA, Full-Stack, Resume Projects  
+- 2× National Hackathon Winner | 3× Hackathon Finalist
+-  📚 Focus: LeetCode, DSA, Full-Stack, Resume Projects  
   
 
 ---
