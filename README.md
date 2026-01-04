@@ -1,7 +1,12 @@
-<h1 align="center">Hi there 👋 I'm Sayali Gangurde</h1>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JqcW4xbWl3Zm8zdG5lZXRxZXhxb29zcTA1M2ZrODgxMjRoYXptMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="250" alt="AI Animation">
+<div style="display: flex; align-items: center;">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IweXpmYnFjcmZvaTNneG5qcmF4Y3k3cWV6Z2k4ZTBhYThscGxvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq2zPVz6FLD6Z5S/giphy.gif" 
+    width="60" 
+    height="60"
+    style="margin-right: 12px;"
+  />
+  <h1>Hi there 👋 I'm Sayali Gangurde</h1>
+</div>
 
 </p>
 
