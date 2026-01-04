@@ -10,7 +10,7 @@
         />
       </td>
       <td>
-        <h1>Hi there 👋 I'm Sayali Gangurde</h1>
+        <h1> I'm Sayali Gangurde</h1>
       </td>
     </tr>
   </table>
